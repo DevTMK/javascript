@@ -237,7 +237,7 @@ This style guide is mostly based on the standards that are currently prevalent i
     )}
     ```
 
-## Quotes 
+## Quotes
 
   - Always use double quotes (`"`) for JSX attributes, but single quotes (`'`) for all other JS. eslint: [`jsx-quotes`](https://eslint.org/docs/rules/jsx-quotes)
 
